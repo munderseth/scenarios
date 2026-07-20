@@ -1,5 +1,5 @@
-async function c2(page, { p2, p3, p4} = {}) {
-    p2 = "one";
+async function c2(page, { p1} = {}) {
+    p1 = "one";
   
     await page.click('#user-name');
 }
