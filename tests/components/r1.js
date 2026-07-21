@@ -8,7 +8,7 @@
  *   1. Navigate to https://example.com
  *   2. Navigate to https://example.com
  */
-async function r1(page, { p1, p2 = "\"TWO\"" } = {}) {
+async function r1(page, { p1 } = {}) {
   if (p1 == null) throw new Error("Required input 'p1' is not set");
 
   // Variables — declare at function scope; assign in the step that generates the value
