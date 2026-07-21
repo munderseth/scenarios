@@ -3,5 +3,5 @@ async function c2(page, { p1} = {}) {
   
     await page.click('#user-name');
 } 
-
+ 
 module.exports = { c2 };
