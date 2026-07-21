@@ -7,7 +7,7 @@
  * Steps:
  *   1. Navigate to https://example.com
  */
-async function r2(page, { in1, in2 } = {}) {
+async function r2(page, { in1, in2, in3 = "\"WHAT IS THIS\"" } = {}) {
   if (in1 == null) throw new Error("Required input 'in1' is not set");
   if (in2 == null) throw new Error("Required input 'in2' is not set");
 
