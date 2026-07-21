@@ -1,4 +1,4 @@
-async function c1(page, { p1} = {}) {
+async function c1(page, { p1 } = {}) {
     p1 = "one";
   
     await page.click('#user-name');
