@@ -12,5 +12,5 @@ async function c1(page, { p1, CHANGE1 = "\"WHAT IS GOING ON\"" } = {}) {
 
   // Step 1: Navigate to https://example.com
 }
-  
+   
 module.exports = { c1 };
