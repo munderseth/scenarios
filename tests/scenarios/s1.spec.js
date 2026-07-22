@@ -19,5 +19,5 @@ test.describe("s1", () => {
     // Step 1: Navigate to https://example.com
     // Step 2: Navigate to https://example.com
     // Step 3: Navigate to https://example.com
-  });
+  }); 
 }); 
