@@ -2,7 +2,7 @@
 
 /**
  * Component: c1
- * Description: lets make changes
+ * Description: lets make changes. Stuff
  *
  * Steps:
  *   1. Navigate to https://example.com
