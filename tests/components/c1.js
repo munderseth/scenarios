@@ -1,6 +1,6 @@
 // ===== STARTING POINT: tests/components/c1.js =====
 
-/**
+/** 
  * Component: c1
  * Description: lets make changes. Stuff and more, now will work
  *
