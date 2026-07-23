@@ -2,7 +2,7 @@
 /**
  * Scenario: s1
  * Description: now lets see if this works
- * 
+ *
  * Cases:
  *  - c1 case (3 steps)
  *    1. Navigate to https://example.com
@@ -20,4 +20,4 @@ test.describe("s1", () => {
     // Step 2: Navigate to https://example.com
     // Step 3: Navigate to https://example.com
   });
-});
+}); 
