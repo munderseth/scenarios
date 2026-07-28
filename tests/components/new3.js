@@ -12,4 +12,4 @@ async function new3(page, { p1} = {}) {
   // Step 1: Navigate to https://example.com
 }
 
-module.exports = { new3};
+module.exports = { new3}; 
