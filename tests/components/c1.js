@@ -3,7 +3,7 @@
 /**
  * Component: c1
  * Description: lets make changes. Stuff and more, now will work
- *
+ * History: mod
  * Steps:
  *   1. Navigate to https://example.com
  */
@@ -12,5 +12,5 @@ async function c1(page, { p1, p2, p3, CHANGE1 = "\"WHAT IS GOING ON\""} = {}) {
 
   // Step 1: Navigate to https://example.com
 }
-   
+
 module.exports = { c1 };
